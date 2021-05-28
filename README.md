@@ -1,4 +1,4 @@
-## **---------------------------------------------------------------------------Praan Project------------------------------------------------------------------------------------**
+## PRAAN PROJECT
 
 *I have understood the task very well!!*
 **Just because _ExpressJS with Typescript_ as the primary requirement of this task, i couldn't proceed further.**
